@@ -3,6 +3,9 @@ READ_ME
 Group 6 Adress Verification Seystem
 
 --------------------------------------
+DATABASE URL: https://addresses-a445.restdb.io/rest/avs-addresses
+(need loggin)
+--------------------------------------
 
 Within this files there are 2 programs, one is for an online databse and one is for a local database.
 Each type has a .exe file and raw .py files. If thet .exe file does not work for any reason, 
