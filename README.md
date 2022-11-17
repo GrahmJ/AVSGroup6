@@ -14,7 +14,7 @@ Feel free to look through the raw data for reference.
 
 HOW TO RUN AVS API
 
-Simply click on the .exe file located in each type respectfully. i recommend the online version. For the local database for localDBAVS, 
+Simply click on the .exe file located in each type respectfully. I recommend the online version which is located outside the said files. For the local database for localDBAVS, 
 the .exe file is within the folder titled 'LocalDBAPI'
 Below will assist in running the .py files.
 
